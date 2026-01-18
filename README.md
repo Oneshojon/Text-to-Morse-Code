@@ -65,7 +65,9 @@ A simple, interactive command-line Python program that converts English text to 
 ```
 ## Project structure
    text-to-morse/
+   
    ├── main.py              # The main program file (or whatever you named it)
+   
    ├── codes.py             # Contains the Morse code dictionary (morse_dict)
-└── README.md            # This file you're reading now.
-$$
+   
+   └── README.md            # This file you're reading now.
