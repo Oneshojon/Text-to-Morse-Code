@@ -14,7 +14,7 @@ A simple, interactive command-line Python program that converts English text to 
 
 ## Requirements
 
-- Python 3.6 or higher (works on Python 3.8+ recommended)
+ Python 3.6 or higher (works on Python 3.8+ recommended)
 
 ## Usage
 
@@ -48,23 +48,23 @@ A simple, interactive command-line Python program that converts English text to 
 
 ## Example sessions
 
-$$
-Hello World
-
-Text: Hello World
-Morse: .... . .-.. .-.. ---       .-- --- .-. .-.. -..
-
-$$ 123 SOS
-
-Text: 123 SOS
-Morse: .---- ..--- ...--       ... --- ...
-
-$$ exit
-Goodbye!
+   $$
+   Hello World
+   
+   Text: Hello World
+   Morse: .... . .-.. .-.. ---       .-- --- .-. .-.. -..
+   
+   $$ 123 SOS
+   
+   Text: 123 SOS
+   Morse: .---- ..--- ...--       ... --- ...
+   
+   $$ exit
+   Goodbye!
 
 ## Project structure
-text-to-morse/
-├── main.py              # The main program file (or whatever you named it)
-├── codes.py             # Contains the Morse code dictionary (morse_dict)
+   text-to-morse/
+   ├── main.py              # The main program file (or whatever you named it)
+   ├── codes.py             # Contains the Morse code dictionary (morse_dict)
 └── README.md            # This file you're reading now.
 $$
