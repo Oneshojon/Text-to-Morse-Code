@@ -48,7 +48,8 @@ A simple, interactive command-line Python program that converts English text to 
 
 ## Example sessions
 
-   $$
+  ```
+  $$
    Hello World
    
    Text: Hello World
@@ -62,6 +63,7 @@ A simple, interactive command-line Python program that converts English text to 
    $$ exit
    Goodbye!
 
+```
 ## Project structure
    text-to-morse/
    ├── main.py              # The main program file (or whatever you named it)
