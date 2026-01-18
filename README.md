@@ -49,14 +49,13 @@ A simple, interactive command-line Python program that converts English text to 
 ## Example sessions
 
   ```
-  $$
+   $$
    Hello World
    
    Text: Hello World
    Morse: .... . .-.. .-.. ---       .-- --- .-. .-.. -..
    
    $$ 123 SOS
-   
    Text: 123 SOS
    Morse: .---- ..--- ...--       ... --- ...
    
